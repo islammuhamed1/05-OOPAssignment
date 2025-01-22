@@ -36,7 +36,7 @@ namespace _05_OOPAssignment
             //    Console.WriteLine(p.ToString());
             //}
 
-            //Console.WriteLine("CLONEEEE");
+            //Console.WriteLine("CLONEEEEE");
             //Console.WriteLine($"Before clone : {p2.ToString()}");
             //p2 = (Point3D)p1.Clone();
             //Console.WriteLine($"After clone : {p2.ToString()}"); // deep copy
